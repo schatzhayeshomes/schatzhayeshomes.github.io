@@ -119,10 +119,10 @@ h1.hl small, h2.hl small, h3.hl small, h4.hl small, h5.hl small, h6.hl small {
 	text-shadow: 1px 1px 3px #666;
 }
 .showcase {
-	position: relative;
+	position: absolute;
 	width: 438px;
 	height: 300px;
-	margin: 90px auto;
+	margin: 130px auto;
 }
 .iMac {
 	position: absolute;
